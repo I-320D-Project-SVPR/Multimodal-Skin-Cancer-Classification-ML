@@ -1,1 +1,1 @@
-# Multimodal-Skin-Cancer-Classification
+# Multimodal-Skin-Cancer-Classification-ML
